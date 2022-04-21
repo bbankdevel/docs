@@ -1,0 +1,334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userId"
+			],
+			[
+				"acc",
+				"accountSubmit"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"tran",
+				"transactions"
+			],
+			[
+				"transa",
+				"transactions"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/iphone/sublime_text/b",
+		"/home/iphone/appsj/evolution/src/app/models/account-interface.ts",
+		"/home/iphone/appsj/evolution/src/app/models/emailm-interface.ts",
+		"/home/iphone/appsj/evolution/src/app/elements/navigation/navigation.component.html",
+		"/home/iphone/appsj/evolution/src/app/data-api.service.ts",
+		"/home/iphone/appsj/evolution/src/app/pages/register/register.component.html",
+		"/home/iphone/appsj/evolution/src/app/pages/login/login.component.html",
+		"/home/iphone/appsj/developerTest/src/app/components/register/register.component.ts",
+		"/home/iphone/appsj/evolution/src/app/models/info-interface.ts",
+		"/home/iphone/appsj/evolution/src/app/pages/register/register.component.ts",
+		"/home/iphone/appsj/evolution/src/app/models/usercard-interface.ts",
+		"/home/iphone/appsj/evolution/src/app/app-routing.module.ts",
+		"/home/iphone/appsj/evolution/src/app/success/success.component.html",
+		"/home/iphone/appsj/evolution/src/app/auth.guard.ts",
+		"/home/iphone/appsj/evolution/src/app/elements/header/header.component.html",
+		"/home/iphone/appsj/evolution/src/app/elements/header/header.component.ts",
+		"/home/iphone/appsj/evolution/src/app/elements/nav-header/nav-header.component.ts",
+		"/home/iphone/projects/cssca/src/app/components/shadishop/shadishop.component.html",
+		"/home/iphone/projects/cssca/src/app/components/testapp/testapp.component.html",
+		"/home/iphone/projects/dfrutme/src/app/components/sidenav/sidenav.component.html",
+		"/home/iphone/appsj/evolution/src/app/dashboard/index1/index1.component.html",
+		"/home/iphone/appsj/evolution/src/app/dashboard/index1/index1.component.ts",
+		"/home/iphone/appsj/evolution/src/app/pages/login/login.component.ts",
+		"/home/iphone/appsj/evolution/src/app/transactions/transactions.component.ts",
+		"/home/iphone/appsj/evolution/src/app/elements/navigation/navigation.component.ts",
+		"/home/iphone/appsj/evolution/src/app/transactions/transactions.component.html",
+		"/home/iphone/appsj/evolution/src/app/user-w.service.ts",
+		"/home/iphone/projects/frutme/src/app/components/fruittopbar/fruittopbar.component.html",
+		"/home/iphone/projects/dfrutme/src/app/components/admin/admin.component.html",
+		"/home/iphone/projects/frutme/src/app/components/fruitproducts/fruitproducts.component.html",
+		"/home/iphone/projects/frutme/src/app/components/testapp/testapp.component.html",
+		"/home/iphone/projects/frutme/README.md",
+		"/home/iphone/appsj/evolution/src/app/app.module.ts",
+		"/home/iphone/appsj/developerTest/src/app/components/successregister/successregister.component.html",
+		"/home/iphone/appsj/evolution/src/app/success/success.component.ts",
+		"/home/iphone/appsj/evolution/src/app/app.component.ts",
+		"/home/iphone/appsj/evolution/src/app/success/success.component.css",
+		"/home/iphone/appsj/developerTest/src/app/components/successregister/successregister.component.ts",
+		"/home/iphone/appsj/evolution/src/app/admin/accounts/accounts.component.html",
+		"/home/iphone/appsj/evolution/src/app/admin/creditcards/creditcards.component.html",
+		"/home/iphone/appsj/evolution/src/app/admin/customers/customers.component.html",
+		"/home/iphone/appsj/evolution/src/app/admin/transactions/transactions.component.html",
+		"/home/iphone/appsj/evolution/src/app/material/dzmt-progress-bar/dzmt-progress-bar.component.ts",
+		"/home/iphone/appsj/evolution/src/app/admin/transactions/transactions.component.ts",
+		"/home/iphone/appsj/evolution/src/app/admin/creditcards/creditcards.component.ts",
+		"/home/iphone/appsj/evolution/src/app/admin/accounts/accounts.component.ts",
+		"/home/iphone/appsj/evolution/src/app/elements/dashboard1/sell-order/sell-order.component.html",
+		"/home/iphone/appsj/evolution/src/app/admin/customers/customers.component.ts",
+		"/home/iphone/appsj/evolution/src/app/admin/customers/customers.component.css",
+		"/home/iphone/appsj/evolution/src/app/elements/dashboard1/buy-order/buy-order.component.html",
+		"/home/iphone/appsj/evolution/angular.json",
+		"/home/iphone/appsj/evolution/src/app/apps/shop/ecom-customers/ecom-customers.component.ts",
+		"/home/iphone/appsj/evolution/src/app/apps/shop/ecom-customers/ecom-customers.component.html",
+		"/home/iphone/appsj/evolution/src/app/admin/admin.component.ts",
+		"/home/iphone/appsj/evolution/src/app/app.component.spec.ts",
+		"/home/iphone/appsj/evolution/e2e/src/app.e2e-spec.ts",
+		"/home/iphone/appsj/evolution/package.json",
+		"/home/iphone/appsj/evolution/package-lock.json",
+		"/home/iphone/appsj/evolution/karma.conf.js",
+		"/home/iphone/appsj/evolution/src/assets/scss/main.scss",
+		"/home/iphone/appsj/evolution/src/assets/scss/main.css",
+		"/home/iphone/appsj/evolution/src/assets/css/style.css",
+		"/home/iphone/appsj/evolution/README.md",
+		"/home/iphone/appsj/evolution/src/app/elements/dashboard1/sell-order/sell-order.component.ts",
+		"/home/iphone/appsj/evolution/src/app/elements/portofolio/my-profile/my-profile.component.html",
+		"/var/www/html/simplicity1/index.html",
+		"/var/www/html/simplicity1/asisomos.html",
+		"/var/www/html/simplicity1/wp-content/themes/tilda-be/css/style.min.css",
+		"/var/www/html/simplicity1/wp-content/themes/tilda-be/js/main.min.js",
+		"/var/www/html/simplicity1/index1.html",
+		"/var/www/html/withtilda.com/index.html",
+		"/var/www/html/withtilda.com/wp-content/themes/tilda-be/css/style.min.css",
+		"/var/www/html/simplicity1/tuequipo.html",
+		"/var/www/html/sis1/assets/css/theme.css",
+		"/var/www/html/sis1/index.html",
+		"/var/www/html/sis1/proyectos.html",
+		"/var/www/html/simplicity/index.html",
+		"/var/www/html/simplicity/simplicity.cl/index.html",
+		"/var/www/html/simplicity/simplicity.cl/index2.html",
+		"/var/www/html/simplicity/simplicity.cl/assets/css/preload.css",
+		"/var/www/html/simplicity/simplicity.cl/assets/css/fontend.css",
+		"/var/www/html/simplicity/simplicity.cl/assets/css/style.css",
+		"/var/www/html/simplicity/simplicity.cl/preload.js",
+		"/var/www/html/zilom/index-2.html",
+		"/var/www/html/latinos/index.html",
+		"/var/www/html/zilom/index.html",
+		"/var/www/html/sis1/about-me.html",
+		"/var/www/html/sis1/about-me-fluid.html",
+		"/var/www/html/buckapi1/index.html",
+		"/var/www/html/sis1/assets/css/whatsapp.css",
+		"/var/www/html/motogo1/assets/css/style.css",
+		"/var/www/html/motogo1/index.html",
+		"/var/www/html/motogo1/index-6.html",
+		"/var/www/html/sis2/index.html",
+		"/var/www/html/sis2/css/settings/green-color.css",
+		"/var/www/html/sis1/home-intro-full-screen.html",
+		"/var/www/html/sis1/indexdemo.html",
+		"/var/www/html/sis1/page-404-2.html",
+		"/var/www/html/sis1/page-404.html",
+		"/var/www/html/sis1/page-dummy-classic-sidebar-left.html",
+		"/var/www/html/sis1/page-dummy-classic-sidebar-right.html",
+		"/var/www/html/sis1/page-dummy-classic.html",
+		"/var/www/html/sis1/page-dummy-modern.html",
+		"/var/www/html/sis1/page-faq.html",
+		"/var/www/html/sis1/page-password.html",
+		"/var/www/html/sis1/page-pricing.html",
+		"/var/www/html/sis1/search-results.html",
+		"/var/www/html/sis1/html/sepia/about-me-2-fluid.html",
+		"/var/www/html/sis1/html/sepia/about-me-2.html",
+		"/var/www/html/sis1/html/sepia/about-me-fluid.html",
+		"/var/www/html/sis1/html/sepia/about-me.html",
+		"/var/www/html/sis1/html/sepia/albums-archive-fluid-2.html",
+		"/var/www/html/sis1/html/sepia/albums-archive-fluid.html",
+		"/var/www/html/sis1/html/sepia/albums-archive.html",
+		"/var/www/html/sis1/html/sepia/albums-carousel-no-crop.html",
+		"/var/www/html/sis1/html/sepia/albums-carousel-split.html",
+		"/var/www/html/sis1/html/sepia/albums-carousel.html",
+		"/var/www/html/sis1/html/sepia/albums-grid-2.html",
+		"/var/www/html/sis1/html/sepia/albums-grid-fluid-2.html",
+		"/var/www/html/sis1/html/sepia/albums-grid-fluid-3.html",
+		"/var/www/html/sis1/html/sepia/albums-grid-fluid-4.html",
+		"/var/www/html/sis1/html/sepia/albums-grid-fluid.html",
+		"/var/www/html/sis1/html/sepia/albums-grid-no-crop.html",
+		"/var/www/html/sis1/html/sepia/albums-grid-simple.html",
+		"/var/www/html/sis1/html/sepia/albums-grid-styles.html",
+		"/var/www/html/sis1/html/sepia/albums-grid.html",
+		"/var/www/html/sis1/html/sepia/albums-one-column-fluid.html",
+		"/var/www/html/sis1/html/sepia/albums-one-column.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AndreaZambranoCV.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
